@@ -71,7 +71,7 @@ class _PdfPageState extends State<PdfPage> {
               pw.Row(
                 mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
                 children: [
-                  pw.Text('Register No: 7376232IT110',
+                  pw.Text('Register No: 7376232IT116',
                       style: pw.TextStyle(fontSize: 12)),
                   pw.Text('UMIS No: 2303737620522010',
                       style: pw.TextStyle(fontSize: 12)),
@@ -81,8 +81,7 @@ class _PdfPageState extends State<PdfPage> {
               pw.Row(
                 mainAxisAlignment: pw.MainAxisAlignment.spaceBetween,
                 children: [
-                  pw.Text('Name: ANNISH LITISHA JEBASTIN',
-                      style: pw.TextStyle(fontSize: 12)),
+                  pw.Text('Name: ASWATH M', style: pw.TextStyle(fontSize: 12)),
                   pw.Text('Batch: 2023 - 2027',
                       style: pw.TextStyle(fontSize: 12)),
                 ],
